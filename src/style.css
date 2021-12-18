@@ -1,0 +1,28 @@
+.search-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    height: fit-content;
+}
+.content .header{
+    margin-bottom: 1rem;
+}
+
+*{
+    font-size: large;
+}
+
+.ui.card:first-child{
+    margin: 1rem 0 1rem 0!important;
+}
+
+i{
+    margin-right: 0!important;
+    margin-left: 1rem!important;
+}
+
+.main{
+    height: 100vh;
+}
